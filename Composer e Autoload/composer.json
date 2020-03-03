@@ -1,0 +1,18 @@
+{
+    "name": "treinaweb/tarefas",
+    "description": "Revis\u0000o do composer e autoload",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cleefsouza",
+            "email": "a.cleef.souza@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Treinaweb\\": "src/"
+        }
+    }
+}
